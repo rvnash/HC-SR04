@@ -3,7 +3,7 @@
 //    Purpose: Demonstration of how to use the HC-SR04 driver
 //
 //    Author: Richard Nash
-//    Version: 1.0.0
+//    Version: 1.0.1
 
 #include "HC-SR04.h"
 

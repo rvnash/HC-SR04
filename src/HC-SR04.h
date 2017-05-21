@@ -3,7 +3,7 @@
 //    Purpose: HC-SR04 driver
 //
 //    Author: Richard Nash
-//    Version: 1.0.0
+//    Version: 1.0.1
 
 // This class provides the trigger and timing to use the range
 // finder. See the usage example in this library for how to use it.

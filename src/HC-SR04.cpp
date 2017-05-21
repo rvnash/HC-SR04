@@ -1,5 +1,9 @@
-/* HC-SR04 library by rnash
- */
+//
+//    HC-SR04.cpp
+//    Purpose: Implementation of the HC-SR04 driver
+//
+//    Author: Richard Nash
+//    Version: 1.0.1
 
 #include "HC-SR04.h"
 #include "Particle.h"
